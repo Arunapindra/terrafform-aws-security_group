@@ -1,14 +1,14 @@
-variable "project_name" { 
+variable "project_name" {
 
 }
 variable "environment" {
-  
+
 }
 variable "component" {
-  
+
 }
 variable "vpc_id" {
-  
+
 }
 variable "common_tags" {
   default = {}
